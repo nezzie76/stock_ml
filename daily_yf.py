@@ -5,6 +5,9 @@ def download_stock_data(ticker, start_date, end_date, csv_path):
     # Download daily data
     df = yf.download(ticker, start=start_date, end=end_date)
 
+    # Reset index to include the 'Date' column
+    df.reset_index(inplace=True)
+
     # Display the downloaded data
     print(df.head())
 
