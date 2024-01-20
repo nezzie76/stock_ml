@@ -1,0 +1,3177 @@
+('Z:\\My Documents\\PycharmProjects\\Stock_ML\\build\\daily_yf\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\Program Files\\Python312\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Program Files\\Python312\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Program Files\\Python312\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Program Files\\Python312\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Program Files\\Python312\\Lib\\_markupbase.py',
+   'PYMODULE'),
+  ('_py_abc', 'C:\\Program Files\\Python312\\Lib\\_py_abc.py', 'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Program Files\\Python312\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Program Files\\Python312\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_strptime', 'C:\\Program Files\\Python312\\Lib\\_strptime.py', 'PYMODULE'),
+  ('_threading_local',
+   'C:\\Program Files\\Python312\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('appdirs',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\appdirs.py',
+   'PYMODULE'),
+  ('argparse', 'C:\\Program Files\\Python312\\Lib\\argparse.py', 'PYMODULE'),
+  ('ast', 'C:\\Program Files\\Python312\\Lib\\ast.py', 'PYMODULE'),
+  ('asyncio',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64', 'C:\\Program Files\\Python312\\Lib\\base64.py', 'PYMODULE'),
+  ('bdb', 'C:\\Program Files\\Python312\\Lib\\bdb.py', 'PYMODULE'),
+  ('bisect', 'C:\\Program Files\\Python312\\Lib\\bisect.py', 'PYMODULE'),
+  ('bs4',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.css',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\bs4\\css.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('bz2', 'C:\\Program Files\\Python312\\Lib\\bz2.py', 'PYMODULE'),
+  ('calendar', 'C:\\Program Files\\Python312\\Lib\\calendar.py', 'PYMODULE'),
+  ('certifi',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('cgi', 'C:\\Program Files\\Python312\\Lib\\cgi.py', 'PYMODULE'),
+  ('charset_normalizer',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('cmd', 'C:\\Program Files\\Python312\\Lib\\cmd.py', 'PYMODULE'),
+  ('code', 'C:\\Program Files\\Python312\\Lib\\code.py', 'PYMODULE'),
+  ('codeop', 'C:\\Program Files\\Python312\\Lib\\codeop.py', 'PYMODULE'),
+  ('concurrent',
+   'C:\\Program Files\\Python312\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Program Files\\Python312\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Program Files\\Python312\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Program Files\\Python312\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Program Files\\Python312\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Program Files\\Python312\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Program Files\\Python312\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Program Files\\Python312\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy', 'C:\\Program Files\\Python312\\Lib\\copy.py', 'PYMODULE'),
+  ('csv', 'C:\\Program Files\\Python312\\Lib\\csv.py', 'PYMODULE'),
+  ('ctypes',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Program Files\\Python312\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime', 'C:\\Program Files\\Python312\\Lib\\datetime.py', 'PYMODULE'),
+  ('dateutil',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('decimal', 'C:\\Program Files\\Python312\\Lib\\decimal.py', 'PYMODULE'),
+  ('difflib', 'C:\\Program Files\\Python312\\Lib\\difflib.py', 'PYMODULE'),
+  ('dis', 'C:\\Program Files\\Python312\\Lib\\dis.py', 'PYMODULE'),
+  ('doctest', 'C:\\Program Files\\Python312\\Lib\\doctest.py', 'PYMODULE'),
+  ('email',
+   'C:\\Program Files\\Python312\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Program Files\\Python312\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Program Files\\Python312\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Program Files\\Python312\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Program Files\\Python312\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Program Files\\Python312\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Program Files\\Python312\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Program Files\\Python312\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Program Files\\Python312\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Program Files\\Python312\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Program Files\\Python312\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Program Files\\Python312\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Program Files\\Python312\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Program Files\\Python312\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Program Files\\Python312\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Program Files\\Python312\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Program Files\\Python312\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Program Files\\Python312\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Program Files\\Python312\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Program Files\\Python312\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch', 'C:\\Program Files\\Python312\\Lib\\fnmatch.py', 'PYMODULE'),
+  ('fractions', 'C:\\Program Files\\Python312\\Lib\\fractions.py', 'PYMODULE'),
+  ('frozendict',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\frozendict\\__init__.py',
+   'PYMODULE'),
+  ('frozendict._frozendict_py',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\frozendict\\_frozendict_py.py',
+   'PYMODULE'),
+  ('frozendict.cool',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\frozendict\\cool.py',
+   'PYMODULE'),
+  ('frozendict.monkeypatch',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\frozendict\\monkeypatch.py',
+   'PYMODULE'),
+  ('frozendict.version',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\frozendict\\version.py',
+   'PYMODULE'),
+  ('ftplib', 'C:\\Program Files\\Python312\\Lib\\ftplib.py', 'PYMODULE'),
+  ('getopt', 'C:\\Program Files\\Python312\\Lib\\getopt.py', 'PYMODULE'),
+  ('getpass', 'C:\\Program Files\\Python312\\Lib\\getpass.py', 'PYMODULE'),
+  ('gettext', 'C:\\Program Files\\Python312\\Lib\\gettext.py', 'PYMODULE'),
+  ('glob', 'C:\\Program Files\\Python312\\Lib\\glob.py', 'PYMODULE'),
+  ('gzip', 'C:\\Program Files\\Python312\\Lib\\gzip.py', 'PYMODULE'),
+  ('hashlib', 'C:\\Program Files\\Python312\\Lib\\hashlib.py', 'PYMODULE'),
+  ('hmac', 'C:\\Program Files\\Python312\\Lib\\hmac.py', 'PYMODULE'),
+  ('html', 'C:\\Program Files\\Python312\\Lib\\html\\__init__.py', 'PYMODULE'),
+  ('html.entities',
+   'C:\\Program Files\\Python312\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Program Files\\Python312\\Lib\\html\\parser.py',
+   'PYMODULE'),
+  ('html5lib',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\__init__.py',
+   'PYMODULE'),
+  ('html5lib._ihatexml',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\_ihatexml.py',
+   'PYMODULE'),
+  ('html5lib._inputstream',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\_inputstream.py',
+   'PYMODULE'),
+  ('html5lib._tokenizer',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\_tokenizer.py',
+   'PYMODULE'),
+  ('html5lib._trie',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\_trie\\__init__.py',
+   'PYMODULE'),
+  ('html5lib._trie._base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\_trie\\_base.py',
+   'PYMODULE'),
+  ('html5lib._trie.py',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\_trie\\py.py',
+   'PYMODULE'),
+  ('html5lib._utils',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\_utils.py',
+   'PYMODULE'),
+  ('html5lib.constants',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\constants.py',
+   'PYMODULE'),
+  ('html5lib.filters',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\filters\\__init__.py',
+   'PYMODULE'),
+  ('html5lib.filters.alphabeticalattributes',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\filters\\alphabeticalattributes.py',
+   'PYMODULE'),
+  ('html5lib.filters.base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\filters\\base.py',
+   'PYMODULE'),
+  ('html5lib.filters.inject_meta_charset',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\filters\\inject_meta_charset.py',
+   'PYMODULE'),
+  ('html5lib.filters.optionaltags',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\filters\\optionaltags.py',
+   'PYMODULE'),
+  ('html5lib.filters.sanitizer',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\filters\\sanitizer.py',
+   'PYMODULE'),
+  ('html5lib.filters.whitespace',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\filters\\whitespace.py',
+   'PYMODULE'),
+  ('html5lib.html5parser',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\html5parser.py',
+   'PYMODULE'),
+  ('html5lib.serializer',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\serializer.py',
+   'PYMODULE'),
+  ('html5lib.treebuilders',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\treebuilders\\__init__.py',
+   'PYMODULE'),
+  ('html5lib.treebuilders.base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\treebuilders\\base.py',
+   'PYMODULE'),
+  ('html5lib.treebuilders.dom',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\treebuilders\\dom.py',
+   'PYMODULE'),
+  ('html5lib.treebuilders.etree',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\treebuilders\\etree.py',
+   'PYMODULE'),
+  ('html5lib.treebuilders.etree_lxml',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\treebuilders\\etree_lxml.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\treewalkers\\__init__.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers.base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\treewalkers\\base.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers.dom',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\treewalkers\\dom.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers.etree',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\treewalkers\\etree.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers.etree_lxml',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\treewalkers\\etree_lxml.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers.genshi',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\html5lib\\treewalkers\\genshi.py',
+   'PYMODULE'),
+  ('http', 'C:\\Program Files\\Python312\\Lib\\http\\__init__.py', 'PYMODULE'),
+  ('http.client',
+   'C:\\Program Files\\Python312\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Program Files\\Python312\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Program Files\\Python312\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Program Files\\Python312\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('idna',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect', 'C:\\Program Files\\Python312\\Lib\\inspect.py', 'PYMODULE'),
+  ('ipaddress', 'C:\\Program Files\\Python312\\Lib\\ipaddress.py', 'PYMODULE'),
+  ('json', 'C:\\Program Files\\Python312\\Lib\\json\\__init__.py', 'PYMODULE'),
+  ('json.decoder',
+   'C:\\Program Files\\Python312\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Program Files\\Python312\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Program Files\\Python312\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Program Files\\Python312\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lxml',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\__init__.py',
+   'PYMODULE'),
+  ('lxml.ElementInclude',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\ElementInclude.py',
+   'PYMODULE'),
+  ('lxml.cssselect',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\cssselect.py',
+   'PYMODULE'),
+  ('lxml.doctestcompare',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\doctestcompare.py',
+   'PYMODULE'),
+  ('lxml.html',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\html\\__init__.py',
+   'PYMODULE'),
+  ('lxml.html.ElementSoup',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\html\\ElementSoup.py',
+   'PYMODULE'),
+  ('lxml.html._diffcommand',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\html\\_diffcommand.py',
+   'PYMODULE'),
+  ('lxml.html._html5builder',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\html\\_html5builder.py',
+   'PYMODULE'),
+  ('lxml.html._setmixin',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\html\\_setmixin.py',
+   'PYMODULE'),
+  ('lxml.html.builder',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\html\\builder.py',
+   'PYMODULE'),
+  ('lxml.html.defs',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\html\\defs.py',
+   'PYMODULE'),
+  ('lxml.html.formfill',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\html\\formfill.py',
+   'PYMODULE'),
+  ('lxml.html.html5parser',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\html\\html5parser.py',
+   'PYMODULE'),
+  ('lxml.html.soupparser',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\html\\soupparser.py',
+   'PYMODULE'),
+  ('lxml.html.usedoctest',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\html\\usedoctest.py',
+   'PYMODULE'),
+  ('lxml.includes',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\includes\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.extlibs',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\includes\\extlibs\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libexslt',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\includes\\libexslt\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libxml',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\includes\\libxml\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libxslt',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\includes\\libxslt\\__init__.py',
+   'PYMODULE'),
+  ('lxml.isoschematron',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\isoschematron\\__init__.py',
+   'PYMODULE'),
+  ('lxml.pyclasslookup',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\pyclasslookup.py',
+   'PYMODULE'),
+  ('lxml.usedoctest',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\lxml\\usedoctest.py',
+   'PYMODULE'),
+  ('lzma', 'C:\\Program Files\\Python312\\Lib\\lzma.py', 'PYMODULE'),
+  ('mimetypes', 'C:\\Program Files\\Python312\\Lib\\mimetypes.py', 'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multitasking',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\multitasking\\__init__.py',
+   'PYMODULE'),
+  ('netrc', 'C:\\Program Files\\Python312\\Lib\\netrc.py', 'PYMODULE'),
+  ('nturl2path',
+   'C:\\Program Files\\Python312\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers', 'C:\\Program Files\\Python312\\Lib\\numbers.py', 'PYMODULE'),
+  ('numpy',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.array_api',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\array_api\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api._array_object',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\array_api\\_array_object.py',
+   'PYMODULE'),
+  ('numpy.array_api._constants',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\array_api\\_constants.py',
+   'PYMODULE'),
+  ('numpy.array_api._creation_functions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\array_api\\_creation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._data_type_functions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\array_api\\_data_type_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._dtypes',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\array_api\\_dtypes.py',
+   'PYMODULE'),
+  ('numpy.array_api._elementwise_functions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\array_api\\_elementwise_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._indexing_functions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\array_api\\_indexing_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._manipulation_functions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\array_api\\_manipulation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._searching_functions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\array_api\\_searching_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._set_functions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\array_api\\_set_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._sorting_functions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\array_api\\_sorting_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._statistical_functions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\array_api\\_statistical_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._typing',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\array_api\\_typing.py',
+   'PYMODULE'),
+  ('numpy.array_api._utility_functions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\array_api\\_utility_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api.linalg',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\array_api\\linalg.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.core._machar',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\_machar.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode', 'C:\\Program Files\\Python312\\Lib\\opcode.py', 'PYMODULE'),
+  ('optparse', 'C:\\Program Files\\Python312\\Lib\\optparse.py', 'PYMODULE'),
+  ('packaging',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pandas',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\_config\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.config',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\_config\\config.py',
+   'PYMODULE'),
+  ('pandas._config.dates',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\_config\\dates.py',
+   'PYMODULE'),
+  ('pandas._config.display',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\_config\\display.py',
+   'PYMODULE'),
+  ('pandas._config.localization',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\_config\\localization.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\_libs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\_testing\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing._io',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\_testing\\_io.py',
+   'PYMODULE'),
+  ('pandas._testing._warnings',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\_testing\\_warnings.py',
+   'PYMODULE'),
+  ('pandas._testing.asserters',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\_testing\\asserters.py',
+   'PYMODULE'),
+  ('pandas._testing.compat',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\_testing\\compat.py',
+   'PYMODULE'),
+  ('pandas._testing.contexts',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\_testing\\contexts.py',
+   'PYMODULE'),
+  ('pandas._typing',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\_typing.py',
+   'PYMODULE'),
+  ('pandas._version',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\_version.py',
+   'PYMODULE'),
+  ('pandas._version_meson',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\_version_meson.py',
+   'PYMODULE'),
+  ('pandas.api',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\api\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\api\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.indexers',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\api\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.interchange',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\api\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\api\\types\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.typing',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\api\\typing\\__init__.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat._constants',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\compat\\_constants.py',
+   'PYMODULE'),
+  ('pandas.compat._optional',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\compat\\_optional.py',
+   'PYMODULE'),
+  ('pandas.compat.compressors',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\compat\\compressors.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\compat\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\compat\\numpy\\function.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\compat\\pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.compat.pyarrow',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\compat\\pyarrow.py',
+   'PYMODULE'),
+  ('pandas.core',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\_numba\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.executor',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\_numba\\executor.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.mean_',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\mean_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.min_max_',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\min_max_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.shared',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\shared.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.sum_',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\sum_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.var_',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\var_.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\api.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\apply.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\array_algos\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.datetimelike_accumulations',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\array_algos\\datetimelike_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_accumulations',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\array_algos\\masked_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_reductions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\array_algos\\masked_reductions.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.putmask',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\array_algos\\putmask.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.quantile',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\array_algos\\quantile.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.replace',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\array_algos\\replace.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.take',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\array_algos\\take.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.transforms',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\array_algos\\transforms.py',
+   'PYMODULE'),
+  ('pandas.core.arraylike',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arraylike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._arrow_string_mixins',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\_arrow_string_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._mixins',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow._arrow_utils',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\_arrow_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.array',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.extension_types',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\extension_types.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.boolean',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\boolean.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.floating',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\floating.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.masked',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\masked.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numeric',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.accessor',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.array',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.scipy_sparse',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\string_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_arrow',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\string_arrow.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\arrays\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\base.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\computation\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\computation\\align.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\computation\\api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\computation\\check.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\computation\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\computation\\engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\computation\\eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\computation\\expr.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\computation\\expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\computation\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.parsing',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\computation\\parsing.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\computation\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\computation\\scope.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\config_init.py',
+   'PYMODULE'),
+  ('pandas.core.construction',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\dtypes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\dtypes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.astype',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\dtypes\\astype.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\dtypes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\dtypes\\cast.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\dtypes\\common.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\dtypes\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\dtypes\\dtypes.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\dtypes\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\dtypes\\inference.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\dtypes\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.flags',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\flags.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\groupby\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\groupby\\base.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\groupby\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\groupby\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\groupby\\groupby.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\groupby\\grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.indexing',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\groupby\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.numba_',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\groupby\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\groupby\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.indexers',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.objects',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexers\\objects.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.utils',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexers\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexes\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexes\\category.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexes\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexes\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.extension',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexes\\extension.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexes\\frozen.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexes\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexes\\multi.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexes\\period.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexes\\range.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexes\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexing',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.interchange',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.buffer',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\interchange\\buffer.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.column',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\interchange\\column.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\interchange\\dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe_protocol',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\interchange\\dataframe_protocol.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.from_dataframe',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\interchange\\from_dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.utils',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\interchange\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\internals\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.api',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\internals\\api.py',
+   'PYMODULE'),
+  ('pandas.core.internals.array_manager',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\internals\\array_manager.py',
+   'PYMODULE'),
+  ('pandas.core.internals.base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\internals\\base.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\internals\\blocks.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\internals\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\internals\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\internals\\managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.ops',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\internals\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.methods',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\methods\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.methods.describe',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\methods\\describe.py',
+   'PYMODULE'),
+  ('pandas.core.methods.selectn',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\methods\\selectn.py',
+   'PYMODULE'),
+  ('pandas.core.methods.to_dict',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\methods\\to_dict.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\nanops.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\ops\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.array_ops',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\ops\\array_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.common',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\ops\\common.py',
+   'PYMODULE'),
+  ('pandas.core.ops.dispatch',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\ops\\dispatch.py',
+   'PYMODULE'),
+  ('pandas.core.ops.docstrings',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\ops\\docstrings.py',
+   'PYMODULE'),
+  ('pandas.core.ops.invalid',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\ops\\invalid.py',
+   'PYMODULE'),
+  ('pandas.core.ops.mask_ops',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\ops\\mask_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.missing',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\ops\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\resample.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\reshape\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\reshape\\api.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\reshape\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.encoding',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\reshape\\encoding.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\reshape\\melt.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\reshape\\merge.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\reshape\\pivot.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\reshape\\reshape.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\reshape\\tile.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.util',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\reshape\\util.py',
+   'PYMODULE'),
+  ('pandas.core.roperator',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\roperator.py',
+   'PYMODULE'),
+  ('pandas.core.sample',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\sample.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\series.py',
+   'PYMODULE'),
+  ('pandas.core.shared_docs',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\shared_docs.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\sorting.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\strings\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.strings.accessor',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\strings\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.strings.base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\strings\\base.py',
+   'PYMODULE'),
+  ('pandas.core.strings.object_array',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\strings\\object_array.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\tools\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\tools\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\tools\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\tools\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.tools.times',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\tools\\times.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\util\\hashing.py',
+   'PYMODULE'),
+  ('pandas.core.util.numba_',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\util\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.common',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\window\\common.py',
+   'PYMODULE'),
+  ('pandas.core.window.doc',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\window\\doc.py',
+   'PYMODULE'),
+  ('pandas.core.window.ewm',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\window\\ewm.py',
+   'PYMODULE'),
+  ('pandas.core.window.expanding',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\window\\expanding.py',
+   'PYMODULE'),
+  ('pandas.core.window.numba_',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\window\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window.online',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\window\\online.py',
+   'PYMODULE'),
+  ('pandas.core.window.rolling',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\core\\window\\rolling.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\errors\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io._util',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\api.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\common.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\excel\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.excel._base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\excel\\_base.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odfreader',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\excel\\_odfreader.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odswriter',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\excel\\_odswriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._openpyxl',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\excel\\_openpyxl.py',
+   'PYMODULE'),
+  ('pandas.io.excel._pyxlsb',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\excel\\_pyxlsb.py',
+   'PYMODULE'),
+  ('pandas.io.excel._util',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\excel\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlrd',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\excel\\_xlrd.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlsxwriter',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\formats\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats._color_data',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\formats\\_color_data.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\formats\\console.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\formats\\css.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\formats\\csvs.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\formats\\excel.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\formats\\format.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\formats\\html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.info',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\formats\\info.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\formats\\printing.py',
+   'PYMODULE'),
+  ('pandas.io.formats.string',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\formats\\string.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\formats\\style.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style_render',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\formats\\style_render.py',
+   'PYMODULE'),
+  ('pandas.io.formats.xml',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\formats\\xml.py',
+   'PYMODULE'),
+  ('pandas.io.gbq',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\gbq.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\html.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\json\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json._json',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\json\\_json.py',
+   'PYMODULE'),
+  ('pandas.io.json._normalize',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\json\\_normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json._table_schema',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\json\\_table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.orc',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\orc.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\parquet.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.arrow_parser_wrapper',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\parsers\\arrow_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.base_parser',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\parsers\\base_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.c_parser_wrapper',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\parsers\\c_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.python_parser',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\parsers\\python_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.readers',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\parsers\\readers.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\pickle.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\pytables.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\sas\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\sas\\sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\sas\\sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\sas\\sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\sas\\sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.spss',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\spss.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\sql.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\stata.py',
+   'PYMODULE'),
+  ('pandas.io.xml',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\io\\xml.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\plotting\\_core.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\plotting\\_misc.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\testing.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\tseries\\__init__.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\tseries\\api.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\tseries\\frequencies.py',
+   'PYMODULE'),
+  ('pandas.tseries.holiday',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\tseries\\holiday.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\tseries\\offsets.py',
+   'PYMODULE'),
+  ('pandas.util',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\util\\_decorators.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\util\\_exceptions.py',
+   'PYMODULE'),
+  ('pandas.util._print_versions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\util\\_print_versions.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\util\\_tester.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\util\\_validators.py',
+   'PYMODULE'),
+  ('pandas.util.version',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pandas\\util\\version\\__init__.py',
+   'PYMODULE'),
+  ('pathlib', 'C:\\Program Files\\Python312\\Lib\\pathlib.py', 'PYMODULE'),
+  ('pdb', 'C:\\Program Files\\Python312\\Lib\\pdb.py', 'PYMODULE'),
+  ('peewee',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\peewee.py',
+   'PYMODULE'),
+  ('pickle', 'C:\\Program Files\\Python312\\Lib\\pickle.py', 'PYMODULE'),
+  ('pickletools',
+   'C:\\Program Files\\Python312\\Lib\\pickletools.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._adapters',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._common',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._compat',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._itertools',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._legacy',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.abc',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.readers',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.simple',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.context',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.functools',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.text',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.more',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.recipes',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._elffile',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._manylinux',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._musllinux',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._parser',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._tokenizer',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.metadata',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.__main__',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__main__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.android',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\android.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.api',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\api.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.macos',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\macos.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.unix',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\unix.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.version',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.windows',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\windows.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.typing_extensions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.zipp',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil', 'C:\\Program Files\\Python312\\Lib\\pkgutil.py', 'PYMODULE'),
+  ('platform', 'C:\\Program Files\\Python312\\Lib\\platform.py', 'PYMODULE'),
+  ('plistlib', 'C:\\Program Files\\Python312\\Lib\\plistlib.py', 'PYMODULE'),
+  ('pprint', 'C:\\Program Files\\Python312\\Lib\\pprint.py', 'PYMODULE'),
+  ('py_compile',
+   'C:\\Program Files\\Python312\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc', 'C:\\Program Files\\Python312\\Lib\\pydoc.py', 'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Program Files\\Python312\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Program Files\\Python312\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pytz',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('queue', 'C:\\Program Files\\Python312\\Lib\\queue.py', 'PYMODULE'),
+  ('quopri', 'C:\\Program Files\\Python312\\Lib\\quopri.py', 'PYMODULE'),
+  ('random', 'C:\\Program Files\\Python312\\Lib\\random.py', 'PYMODULE'),
+  ('requests',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('runpy', 'C:\\Program Files\\Python312\\Lib\\runpy.py', 'PYMODULE'),
+  ('secrets', 'C:\\Program Files\\Python312\\Lib\\secrets.py', 'PYMODULE'),
+  ('selectors', 'C:\\Program Files\\Python312\\Lib\\selectors.py', 'PYMODULE'),
+  ('shlex', 'C:\\Program Files\\Python312\\Lib\\shlex.py', 'PYMODULE'),
+  ('shutil', 'C:\\Program Files\\Python312\\Lib\\shutil.py', 'PYMODULE'),
+  ('signal', 'C:\\Program Files\\Python312\\Lib\\signal.py', 'PYMODULE'),
+  ('six',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('socket', 'C:\\Program Files\\Python312\\Lib\\socket.py', 'PYMODULE'),
+  ('socketserver',
+   'C:\\Program Files\\Python312\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('soupsieve',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.pretty',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\soupsieve\\pretty.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Program Files\\Python312\\Lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.__main__',
+   'C:\\Program Files\\Python312\\Lib\\sqlite3\\__main__.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Program Files\\Python312\\Lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Program Files\\Python312\\Lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('ssl', 'C:\\Program Files\\Python312\\Lib\\ssl.py', 'PYMODULE'),
+  ('statistics',
+   'C:\\Program Files\\Python312\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string', 'C:\\Program Files\\Python312\\Lib\\string.py', 'PYMODULE'),
+  ('stringprep',
+   'C:\\Program Files\\Python312\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Program Files\\Python312\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig', 'C:\\Program Files\\Python312\\Lib\\sysconfig.py', 'PYMODULE'),
+  ('tarfile', 'C:\\Program Files\\Python312\\Lib\\tarfile.py', 'PYMODULE'),
+  ('tempfile', 'C:\\Program Files\\Python312\\Lib\\tempfile.py', 'PYMODULE'),
+  ('textwrap', 'C:\\Program Files\\Python312\\Lib\\textwrap.py', 'PYMODULE'),
+  ('threading', 'C:\\Program Files\\Python312\\Lib\\threading.py', 'PYMODULE'),
+  ('token', 'C:\\Program Files\\Python312\\Lib\\token.py', 'PYMODULE'),
+  ('tokenize', 'C:\\Program Files\\Python312\\Lib\\tokenize.py', 'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Program Files\\Python312\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty', 'C:\\Program Files\\Python312\\Lib\\tty.py', 'PYMODULE'),
+  ('typing', 'C:\\Program Files\\Python312\\Lib\\typing.py', 'PYMODULE'),
+  ('unittest',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Program Files\\Python312\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Program Files\\Python312\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Program Files\\Python312\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Program Files\\Python312\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Program Files\\Python312\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib3',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.weakref_finalize',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\packages\\backports\\weakref_finalize.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('uuid', 'C:\\Program Files\\Python312\\Lib\\uuid.py', 'PYMODULE'),
+  ('webbrowser',
+   'C:\\Program Files\\Python312\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('webencodings',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\webencodings\\__init__.py',
+   'PYMODULE'),
+  ('webencodings.labels',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\webencodings\\labels.py',
+   'PYMODULE'),
+  ('webencodings.x_user_defined',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\webencodings\\x_user_defined.py',
+   'PYMODULE'),
+  ('xml', 'C:\\Program Files\\Python312\\Lib\\xml\\__init__.py', 'PYMODULE'),
+  ('xml.dom',
+   'C:\\Program Files\\Python312\\Lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Program Files\\Python312\\Lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Program Files\\Python312\\Lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Program Files\\Python312\\Lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Program Files\\Python312\\Lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Program Files\\Python312\\Lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Program Files\\Python312\\Lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Program Files\\Python312\\Lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Program Files\\Python312\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Program Files\\Python312\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Program Files\\Python312\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Program Files\\Python312\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Program Files\\Python312\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Program Files\\Python312\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Program Files\\Python312\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Program Files\\Python312\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Program Files\\Python312\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('yfinance',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\yfinance\\__init__.py',
+   'PYMODULE'),
+  ('yfinance.base',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\yfinance\\base.py',
+   'PYMODULE'),
+  ('yfinance.cache',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\yfinance\\cache.py',
+   'PYMODULE'),
+  ('yfinance.const',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\yfinance\\const.py',
+   'PYMODULE'),
+  ('yfinance.data',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\yfinance\\data.py',
+   'PYMODULE'),
+  ('yfinance.exceptions',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\yfinance\\exceptions.py',
+   'PYMODULE'),
+  ('yfinance.multi',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\yfinance\\multi.py',
+   'PYMODULE'),
+  ('yfinance.scrapers',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\yfinance\\scrapers\\__init__.py',
+   'PYMODULE'),
+  ('yfinance.scrapers.analysis',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\yfinance\\scrapers\\analysis.py',
+   'PYMODULE'),
+  ('yfinance.scrapers.fundamentals',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\yfinance\\scrapers\\fundamentals.py',
+   'PYMODULE'),
+  ('yfinance.scrapers.holders',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\yfinance\\scrapers\\holders.py',
+   'PYMODULE'),
+  ('yfinance.scrapers.quote',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\yfinance\\scrapers\\quote.py',
+   'PYMODULE'),
+  ('yfinance.shared',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\yfinance\\shared.py',
+   'PYMODULE'),
+  ('yfinance.ticker',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\yfinance\\ticker.py',
+   'PYMODULE'),
+  ('yfinance.tickers',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\yfinance\\tickers.py',
+   'PYMODULE'),
+  ('yfinance.utils',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\yfinance\\utils.py',
+   'PYMODULE'),
+  ('yfinance.version',
+   'Z:\\My '
+   'Documents\\PycharmProjects\\Stock_ML\\venv\\Lib\\site-packages\\yfinance\\version.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Program Files\\Python312\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile.__main__',
+   'C:\\Program Files\\Python312\\Lib\\zipfile\\__main__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Program Files\\Python312\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Program Files\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport', 'C:\\Program Files\\Python312\\Lib\\zipimport.py', 'PYMODULE')])
